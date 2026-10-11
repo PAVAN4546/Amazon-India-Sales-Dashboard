@@ -91,6 +91,7 @@ The dashboard provides a simple management-level view of business performance an
 | `Amazon India Dashboard Sapphire IQ.pdf` | Project requirements document |
 
 ## Dashboard Preview
+![Amazon India Sales Dashboard](dashboard.png)
 
 The Excel workbook contains the complete interactive dashboard covering sales, profit, products, orders, payments, fulfillment, and geographic performance.
 
